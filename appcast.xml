@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Nib Updates</title>
-    <link>https://mdhanjy.github.io/nib-releases/appcast.xml</link>
-    <description>Signed and notarized updates for Nib for macOS.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nib</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 17 Aug 2026 19:54:41 -0700</pubDate>
+            <sparkle:version>202608170001</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mdhanjy/nib-releases/releases/download/v1.1.0-202608170001/Nib-1.1.0-202608170001.zip" length="6286676" type="application/octet-stream" sparkle:edSignature="eKzNN3Qyx2bkuI5FQMsNHc0LSuVR+6ZmglTjge38CkRohfzoLl8ZG3lEeRoZ78juEif58xGIonFoAkPuf8hzCQ=="/>
+        </item>
+    </channel>
 </rss>
