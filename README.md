@@ -2,7 +2,8 @@
 
 This public repository is the binary-only distribution host for **Nib for macOS**.
 
-- [Download published releases](https://github.com/mdhanjy/nib-releases/releases)
+- Current update archive: [downloads/](https://mdhanjy.github.io/nib-releases/downloads/)
+- Historical GitHub releases: [Releases](https://github.com/mdhanjy/nib-releases/releases)
 - Sparkle update feed: [appcast.xml](https://mdhanjy.github.io/nib-releases/appcast.xml)
 
 Every published Nib app must be Developer ID signed, notarized by Apple, and stapled before it is uploaded.
