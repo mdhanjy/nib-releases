@@ -4,11 +4,11 @@
         <title>Nib</title>
         <item>
             <title>1.1.2</title>
-            <pubDate>Mon, 17 Aug 2026 20:55:40 -0700</pubDate>
-            <sparkle:version>202608170003</sparkle:version>
+            <pubDate>Tue, 18 Aug 2026 09:53:31 -0700</pubDate>
+            <sparkle:version>202608180834</sparkle:version>
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.1.2-202608170003.zip" length="6334908" type="application/octet-stream" sparkle:edSignature="Foox3qUgK1jUtr1R14OD14WSAT97AaVrlIXEiNQpojcxNpZYtcV2UBC+XadQm+7AHPflDH6Mhsyxsnh/JYpZCw=="/>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.1.2-202608180834.zip" length="6396428" type="application/octet-stream" sparkle:edSignature="ieRn69uNDqr3JAYaNpnjGfDqYuFYx8n0kFK2iW0rnS7LcNVUQZEi3BWEin2s5TUrP004RGXQbJJSUKYoMTWvBg=="/>
         </item>
     </channel>
 </rss>
