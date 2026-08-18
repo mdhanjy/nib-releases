@@ -3,6 +3,17 @@
     <channel>
         <title>Nib</title>
         <item>
+            <title>1.1.3</title>
+            <pubDate>Tue, 18 Aug 2026 11:06:03 -0700</pubDate>
+            <sparkle:version>202608181102</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.1.3-202608181102.zip" length="6379228" type="application/octet-stream" sparkle:edSignature="715nitG0Yr1ZkCfrXyw4t6bepDQ1awor52TctzPrAeceK02XJwqlpyO1pqVNoYmN7h+DUwo7hUbkZ26dR8kKCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608181102-202608180834.delta" sparkle:deltaFrom="202608180834" length="313338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rrTDuBF7rEnSRsXlsR5or4FoE9xBjbUzD430J8ghCfQi4To38PVxSVAOZJ/p0sXsTJi/dyjTBIYCWMn4RxEKAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.2</title>
             <pubDate>Tue, 18 Aug 2026 09:53:31 -0700</pubDate>
             <sparkle:version>202608180834</sparkle:version>
