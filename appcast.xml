@@ -3,46 +3,33 @@
     <channel>
         <title>Nib</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 02 Sep 2026 11:12:32 -0700</pubDate>
+            <sparkle:version>202608251338</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.3.0-202608251338.zip" length="10688862" type="application/octet-stream" sparkle:edSignature="E6z+eI4YpZI6Y+JrxI5DaoOUOdB/b0MaXB3Qik7TNCnlQPWon2aODKpI4h7avzMjCXcjy9tDYAv5iSRNw3S3CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608251338-202608241306.delta" sparkle:deltaFrom="202608241306" length="4057934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YDqBV8dEutT1pz38+2wCPM7V/n+jpRFJrPf3imRczjmJjtJ8c87DdksFzJqIUZdT8I4S0p/Du16L96DFQzWsCw=="/>
+                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608251338-202608201911.delta" sparkle:deltaFrom="202608201911" length="4110778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VACTfRr38s300LGLPDpFVQV43Yqb3Xfh/NX5CDi0AXOeD/LD/t7Y7V0vFVtRYwj+UZg2OGZGj1gxwCpODvbYCQ=="/>
+                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608251338-202608181238.delta" sparkle:deltaFrom="202608181238" length="4193314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1fkF+QsLhm82DRCwU9UTdJhW2s1rDNhYxx1372KMqEhAEpspbCitOkErbPTqo7XbkLeJzzCZNGnAO1gtsKb0Cw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.3</title>
-            <pubDate>Mon, 24 Aug 2026 13:09:31 -0700</pubDate>
+            <pubDate>Wed, 02 Sep 2026 11:08:22 -0700</pubDate>
             <sparkle:version>202608241306</sparkle:version>
             <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.2.3-202608241306.zip" length="6712970" type="application/octet-stream" sparkle:edSignature="tQFEEZ6Y/b+HtCRdt2Hcxvbe0NoGXZUB6EvM8OBEVl842eYjH3tM9gEIrla6FY/gZ4OMvW3vMPTC7cNmQr71DA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608241306-202608201911.delta" sparkle:deltaFrom="202608201911" length="449422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v89QLvo9D66yQUTgiRQyRJwBEpWW5jNJQhYwQuYCehwQXrema/iqD6V8bhHZwyAX3WGU3k4QRHFNQ0FKvrFnCg=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608241306-202608181238.delta" sparkle:deltaFrom="202608181238" length="600018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1l0cs9+R8e5Lg+SQuhaVc16zFFoImD2ptFDR6n7920mO5ZELHBgekxjMSk8/2pTkxLJU+NtGLryFQ3gztMt9Dg=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608241306-202608181212.delta" sparkle:deltaFrom="202608181212" length="712582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5d7/RjTe7A+3RXiVubENs++xkAsK81so960Z8m4zxKH3H6D/yExo0KpanDv9sDTeR9KePyDQDSVypqGBBAcOBQ=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608241306-202608181102.delta" sparkle:deltaFrom="202608181102" length="843754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lpIU4DisRTf3NrQ6KIUtaL329bzx2T9z6MTIgyS5/wZYnjXuYYs3wpETKBwVtll4VfT7UF0fW+vZjm2HUlC1Aw=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608241306-202608180834.delta" sparkle:deltaFrom="202608180834" length="864402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="22TuwtHVMRexPcaI/ZYX297K9wBpukW43WozN7/PaHybBkONecQcH2PGbwiHPIyrnnuIC87jqnTL+RUbv6HIDQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.2.2</title>
-            <pubDate>Thu, 20 Aug 2026 19:13:20 -0700</pubDate>
+            <pubDate>Wed, 02 Sep 2026 11:08:22 -0700</pubDate>
             <sparkle:version>202608201911</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.2.2-202608201911.zip" length="6652472" type="application/octet-stream" sparkle:edSignature="oSpdA4mMZRSW7kiFlHNcUOfIzt1whYLvFhLLontRWNUMj33fF3hRYzmV/goVXJXfH9KoUL4kgJwXzSkVyiEfAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608201911-202608181238.delta" sparkle:deltaFrom="202608181238" length="507234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="A2wm/amQ4KP9yWPRFfunzXRm5zEXzH74bo+6g/LkZN+5SFgQw+ocCw/KxlkgjPSqToLCM5hiXtCyAdJ/0r/LAQ=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608201911-202608181212.delta" sparkle:deltaFrom="202608181212" length="634722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z9oJswc3iitQP+pkgMIccHEoek9oLp4mPwgyMG+zqZU4e9X4WzdN1DOx/9uflHuSSymd80OVfv+nn1R4YL8CDg=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608201911-202608181102.delta" sparkle:deltaFrom="202608181102" length="780702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ajfikUynBx+kkbQYa0g7rsXiYcrp4IVTb+GnX9lCQjXD//IlU/N9Io9t4s0WmSgPC6Hiizn4bS5mxTzl8EoeCA=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608201911-202608180834.delta" sparkle:deltaFrom="202608180834" length="799138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ddh2+OHjRnEO0VXrnqQba5rhNiDXY+2TfitRjCrB8WyFMxMO34owHJKrYeNvblOzRQKnr+BCP5lwToMm+i5wBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <pubDate>Tue, 18 Aug 2026 16:49:55 -0700</pubDate>
-            <sparkle:version>202608181238</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.2.1-202608181238.zip" length="6590571" type="application/octet-stream" sparkle:edSignature="tdQ5HB1q5sDfspWQSxERM1WtyFWly3xn5Rmwitn1X+cstXdiJ7EZ+xtz9SQ0j9gBS6G57nlmbkI0obMouzmdDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608181238-202608181212.delta" sparkle:deltaFrom="202608181212" length="477546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LSRRPcj3nMpHRVjD6AvPZZWuxWvWtn+wZS/cxUW+F2+Tz0651CTcFIOt6qGW+xCLTWeYabjplukxGeTbwkrcCw=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608181238-202608181102.delta" sparkle:deltaFrom="202608181102" length="668378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qNaZifWI9S0uddX5VUtwXudc0R9iKVY6siBlVyvztuJpr3z77y6QSiniKFt4uBGQ1rV6Rkjwm7hF2XnR2NztBg=="/>
-                <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib202608181238-202608180834.delta" sparkle:deltaFrom="202608180834" length="696534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NFjiV8R58ZfcHmO6J8bwb66IvAzc28S/ke92ppPKY9AEelyoy1l/1CGxNVd0rgpnS5Nkybtw0hzEPC73Vj1YDw=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
