@@ -3,6 +3,15 @@
     <channel>
         <title>Nib</title>
         <item>
+            <title>1.4.4</title>
+            <pubDate>Fri, 18 Sep 2026 13:36:03 -0700</pubDate>
+            <sparkle:version>202608251355</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.4-202608251355.zip" length="10892309" type="application/octet-stream" sparkle:edSignature="rkBFeBsU/iZCTjqfPJErgQrjauB3RXdaYJdAyELBIY6lc2zFiwi31SiyLI7eyvvKu3UOW1bIbDH8tH06tEq0Aw==" />
+            <description>&lt;p&gt;Nib now keeps dictated model names and version numbers exactly as spoken, and returns the dictation pill cleanly to its compact shape after automatic retries.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cleanup no longer substitutes more familiar names or versions, including Luna/Llama and Gemini 3.8/3.5.&lt;/li&gt;&lt;li&gt;Personal-dictionary spellings are treated as authoritative.&lt;/li&gt;&lt;li&gt;The retry card no longer leaves an expanded border around the compact pill.&lt;/li&gt;&lt;/ul&gt;</description>
+        </item>
+        <item>
             <title>1.4.3</title>
             <pubDate>Fri, 18 Sep 2026 11:29:33 -0700</pubDate>
             <sparkle:version>202608251353</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.2-202608251352.zip" length="10885055" type="application/octet-stream" sparkle:edSignature="fTM+IGIKk5I6OorfK7AnFP7J0lIDds+ayE2G3UEdYaELGaEx4n039Ndfo8sSDZayMGCUIXVA/xGvfg6IW/+ICQ==" />
             <description>&lt;p&gt;Nib’s floating interfaces now have a soft, luminous edge inspired by modern glass controls.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The dictation capsule gains a brighter indigo-to-teal gradient rim.&lt;/li&gt;&lt;li&gt;The edit panel uses a quieter matching treatment that stays legible in light and dark mode.&lt;/li&gt;&lt;/ul&gt;</description>
-        </item>
-        <item>
-            <title>1.4.1</title>
-            <pubDate>Fri, 11 Sep 2026 17:07:43 -0700</pubDate>
-            <sparkle:version>202608251348</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.1-202608251348.zip" length="10962795" type="application/octet-stream" sparkle:edSignature="viBRMdfQ0IqHU4CzJhlH25X5UH/SxRQCwpwrMmuCQSn3g2qShmBUZE7OroZ+h8XG6oKzP8oDELczYTpmQyFXDg==" />
-            <description>&lt;p&gt;Long dictations are now protected when the speech provider is busy or the connection drops.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Encrypted recording recovery is on by default and survives restarts.&lt;/li&gt;&lt;li&gt;Temporary failures retry the same audio up to three times.&lt;/li&gt;&lt;li&gt;Open Pending Dictations from Nib’s menu to retry, play, save audio, or delete a recording.&lt;/li&gt;&lt;li&gt;Recovered text opens for copying, with the same batch transcription and cleanup quality.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Manage recording recovery in Settings → Dictation → History.&lt;/p&gt;</description>
         </item>
     </channel>
 </rss>
