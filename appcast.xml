@@ -3,6 +3,15 @@
     <channel>
         <title>Nib</title>
         <item>
+            <title>1.4.3</title>
+            <pubDate>Fri, 18 Sep 2026 11:29:33 -0700</pubDate>
+            <sparkle:version>202608251353</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.3-202608251353.zip" length="10891553" type="application/octet-stream" sparkle:edSignature="vxkgVYuIbwfbNVxQH+UvlP01mHK1ES3X4TqmWvQ/ZUF/SJ1CrryL3GrXj4jMcW8gVvVI8wQEeg0T62FeVyYzDg==" />
+            <description>&lt;p&gt;Nib’s floating interfaces now have a crisp animated gradient outline inspired by modern glass controls.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The outline moves slowly around dictation, edit, retry, and error surfaces.&lt;/li&gt;&lt;li&gt;The effect stays on the perimeter without bleeding into the glass and respects Reduce Motion.&lt;/li&gt;&lt;li&gt;The native-glass waveform no longer shows a rectangular backing layer.&lt;/li&gt;&lt;/ul&gt;</description>
+        </item>
+        <item>
             <title>1.4.2</title>
             <pubDate>Fri, 18 Sep 2026 10:01:16 -0700</pubDate>
             <sparkle:version>202608251352</sparkle:version>
@@ -19,14 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.1-202608251348.zip" length="10962795" type="application/octet-stream" sparkle:edSignature="viBRMdfQ0IqHU4CzJhlH25X5UH/SxRQCwpwrMmuCQSn3g2qShmBUZE7OroZ+h8XG6oKzP8oDELczYTpmQyFXDg==" />
             <description>&lt;p&gt;Long dictations are now protected when the speech provider is busy or the connection drops.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Encrypted recording recovery is on by default and survives restarts.&lt;/li&gt;&lt;li&gt;Temporary failures retry the same audio up to three times.&lt;/li&gt;&lt;li&gt;Open Pending Dictations from Nib’s menu to retry, play, save audio, or delete a recording.&lt;/li&gt;&lt;li&gt;Recovered text opens for copying, with the same batch transcription and cleanup quality.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Manage recording recovery in Settings → Dictation → History.&lt;/p&gt;</description>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Thu, 03 Sep 2026 17:58:51 -0700</pubDate>
-            <sparkle:version>202608251347</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.0-202608251347.zip" length="10795256" type="application/octet-stream" sparkle:edSignature="owVA4tB0xTEGOlBj2eVZ0iNDCqFOacQsNdCTFAPvzVjRqBzNfQeQRsRlBRUSWPyEjSEo8uHGmSvGpw8aex8IAw==" />
         </item>
     </channel>
 </rss>
