@@ -1,7 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Nib</title>
+        <item>
+            <title>1.4.2</title>
+            <pubDate>Fri, 18 Sep 2026 10:01:16 -0700</pubDate>
+            <sparkle:version>202608251352</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.2-202608251352.zip" length="10885055" type="application/octet-stream" sparkle:edSignature="fTM+IGIKk5I6OorfK7AnFP7J0lIDds+ayE2G3UEdYaELGaEx4n039Ndfo8sSDZayMGCUIXVA/xGvfg6IW/+ICQ==" />
+            <description>&lt;p&gt;Nib’s floating interfaces now have a soft, luminous edge inspired by modern glass controls.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The dictation capsule gains a brighter indigo-to-teal gradient rim.&lt;/li&gt;&lt;li&gt;The edit panel uses a quieter matching treatment that stays legible in light and dark mode.&lt;/li&gt;&lt;/ul&gt;</description>
+        </item>
         <item>
             <title>1.4.1</title>
             <pubDate>Fri, 11 Sep 2026 17:07:43 -0700</pubDate>
@@ -18,14 +27,6 @@
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.0-202608251347.zip" length="10795256" type="application/octet-stream" sparkle:edSignature="owVA4tB0xTEGOlBj2eVZ0iNDCqFOacQsNdCTFAPvzVjRqBzNfQeQRsRlBRUSWPyEjSEo8uHGmSvGpw8aex8IAw==" />
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Wed, 02 Sep 2026 11:54:58 -0700</pubDate>
-            <sparkle:version>202608251342</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.3.1-202608251342.zip" length="10693820" type="application/octet-stream" sparkle:edSignature="fyytJE8VktzLumRa8ctzKw+2If0mXqiWvFthhCRbId2lxbo762GnOeqvNasv0+CJCRFolw1xOdgfjU80wztqDg==" />
         </item>
     </channel>
 </rss>
