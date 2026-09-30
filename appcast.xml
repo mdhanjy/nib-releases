@@ -3,6 +3,15 @@
     <channel>
         <title>Nib</title>
         <item>
+            <title>1.4.8</title>
+            <pubDate>Tue, 29 Sep 2026 21:02:37 -0700</pubDate>
+            <sparkle:version>202608251360</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.8-202608251360.zip" length="11373054" type="application/octet-stream" sparkle:edSignature="rlsK7HMoVH8SjSR/HnZ7Hot76dw0E8EPMB8fLJM9jGiPteOK1BNQDUO5tYOF60om7W2VJ8KvVxhBf/F1j7kUBQ==" />
+            <description>&lt;p&gt;Nib no longer uses CPU in the background after you dictate. This update also brings live meeting captions and more flexible dictation keys.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The animated dictation outline now pauses whenever the pill is hidden, instead of redrawing continuously while Nib is idle.&lt;/li&gt;&lt;li&gt;Meetings open a live transcript panel with MAI-Transcribe 2 captions through your OpenRouter key, editable speaker names, notes, and retry for missing captions.&lt;/li&gt;&lt;li&gt;The voice key and keyboard dictation shortcuts are interchangeable: start with either and tap either to finish.&lt;/li&gt;&lt;li&gt;Automatic dictation retries log a short diagnostic that contains no audio or text.&lt;/li&gt;&lt;/ul&gt;</description>
+        </item>
+        <item>
             <title>1.4.4</title>
             <pubDate>Fri, 18 Sep 2026 13:36:03 -0700</pubDate>
             <sparkle:version>202608251355</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.3-202608251353.zip" length="10891553" type="application/octet-stream" sparkle:edSignature="vxkgVYuIbwfbNVxQH+UvlP01mHK1ES3X4TqmWvQ/ZUF/SJ1CrryL3GrXj4jMcW8gVvVI8wQEeg0T62FeVyYzDg==" />
             <description>&lt;p&gt;Nib’s floating interfaces now have a crisp animated gradient outline inspired by modern glass controls.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The outline moves slowly around dictation, edit, retry, and error surfaces.&lt;/li&gt;&lt;li&gt;The effect stays on the perimeter without bleeding into the glass and respects Reduce Motion.&lt;/li&gt;&lt;li&gt;The native-glass waveform no longer shows a rectangular backing layer.&lt;/li&gt;&lt;/ul&gt;</description>
-        </item>
-        <item>
-            <title>1.4.2</title>
-            <pubDate>Fri, 18 Sep 2026 10:01:16 -0700</pubDate>
-            <sparkle:version>202608251352</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.2-202608251352.zip" length="10885055" type="application/octet-stream" sparkle:edSignature="fTM+IGIKk5I6OorfK7AnFP7J0lIDds+ayE2G3UEdYaELGaEx4n039Ndfo8sSDZayMGCUIXVA/xGvfg6IW/+ICQ==" />
-            <description>&lt;p&gt;Nib’s floating interfaces now have a soft, luminous edge inspired by modern glass controls.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The dictation capsule gains a brighter indigo-to-teal gradient rim.&lt;/li&gt;&lt;li&gt;The edit panel uses a quieter matching treatment that stays legible in light and dark mode.&lt;/li&gt;&lt;/ul&gt;</description>
         </item>
     </channel>
 </rss>
