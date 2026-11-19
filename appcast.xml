@@ -3,12 +3,20 @@
     <channel>
         <title>Nib</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Wed, 18 Nov 2026 22:36:42 -0800</pubDate>
+            <sparkle:version>202611182228</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-2.0.1-202611182228.zip" length="25027997" type="application/octet-stream" sparkle:edSignature="9PCX4rjbWKWshMsCIJmtY6UV87FRhpyfFBsDKu9tquT9jHpcgKE7MXHXAN3cpdZa6C/4G+1lAKv8LUuNpHwMAQ=="/>
+        </item>
+        <item>
             <title>1.4.8</title>
             <pubDate>Tue, 29 Sep 2026 21:02:37 -0700</pubDate>
             <sparkle:version>202608251360</sparkle:version>
             <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.8-202608251360.zip" length="11373054" type="application/octet-stream" sparkle:edSignature="rlsK7HMoVH8SjSR/HnZ7Hot76dw0E8EPMB8fLJM9jGiPteOK1BNQDUO5tYOF60om7W2VJ8KvVxhBf/F1j7kUBQ==" />
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.8-202608251360.zip" length="11373054" type="application/octet-stream" sparkle:edSignature="rlsK7HMoVH8SjSR/HnZ7Hot76dw0E8EPMB8fLJM9jGiPteOK1BNQDUO5tYOF60om7W2VJ8KvVxhBf/F1j7kUBQ=="/>
             <description>&lt;p&gt;Nib no longer uses CPU in the background after you dictate. This update also brings live meeting captions and more flexible dictation keys.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The animated dictation outline now pauses whenever the pill is hidden, instead of redrawing continuously while Nib is idle.&lt;/li&gt;&lt;li&gt;Meetings open a live transcript panel with MAI-Transcribe 2 captions through your OpenRouter key, editable speaker names, notes, and retry for missing captions.&lt;/li&gt;&lt;li&gt;The voice key and keyboard dictation shortcuts are interchangeable: start with either and tap either to finish.&lt;/li&gt;&lt;li&gt;Automatic dictation retries log a short diagnostic that contains no audio or text.&lt;/li&gt;&lt;/ul&gt;</description>
         </item>
         <item>
@@ -17,17 +25,8 @@
             <sparkle:version>202608251355</sparkle:version>
             <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.4-202608251355.zip" length="10892309" type="application/octet-stream" sparkle:edSignature="rkBFeBsU/iZCTjqfPJErgQrjauB3RXdaYJdAyELBIY6lc2zFiwi31SiyLI7eyvvKu3UOW1bIbDH8tH06tEq0Aw==" />
+            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.4-202608251355.zip" length="10892309" type="application/octet-stream" sparkle:edSignature="rkBFeBsU/iZCTjqfPJErgQrjauB3RXdaYJdAyELBIY6lc2zFiwi31SiyLI7eyvvKu3UOW1bIbDH8tH06tEq0Aw=="/>
             <description>&lt;p&gt;Nib now keeps dictated model names and version numbers exactly as spoken, and returns the dictation pill cleanly to its compact shape after automatic retries.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cleanup no longer substitutes more familiar names or versions, including Luna/Llama and Gemini 3.8/3.5.&lt;/li&gt;&lt;li&gt;Personal-dictionary spellings are treated as authoritative.&lt;/li&gt;&lt;li&gt;The retry card no longer leaves an expanded border around the compact pill.&lt;/li&gt;&lt;/ul&gt;</description>
-        </item>
-        <item>
-            <title>1.4.3</title>
-            <pubDate>Fri, 18 Sep 2026 11:29:33 -0700</pubDate>
-            <sparkle:version>202608251353</sparkle:version>
-            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mdhanjy.github.io/nib-releases/downloads/Nib-1.4.3-202608251353.zip" length="10891553" type="application/octet-stream" sparkle:edSignature="vxkgVYuIbwfbNVxQH+UvlP01mHK1ES3X4TqmWvQ/ZUF/SJ1CrryL3GrXj4jMcW8gVvVI8wQEeg0T62FeVyYzDg==" />
-            <description>&lt;p&gt;Nib’s floating interfaces now have a crisp animated gradient outline inspired by modern glass controls.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The outline moves slowly around dictation, edit, retry, and error surfaces.&lt;/li&gt;&lt;li&gt;The effect stays on the perimeter without bleeding into the glass and respects Reduce Motion.&lt;/li&gt;&lt;li&gt;The native-glass waveform no longer shows a rectangular backing layer.&lt;/li&gt;&lt;/ul&gt;</description>
         </item>
     </channel>
 </rss>
